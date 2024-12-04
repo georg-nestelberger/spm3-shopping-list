@@ -4,3 +4,5 @@ glühmost
 äpfel
 birnen
 nüsse
+punsch
+pommes
